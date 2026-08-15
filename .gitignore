@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Downloaded/generated datasets are reproducible and must not be published.
+data/raw/
+data/processed/
+
+# Small JSON evaluation artifacts are intentionally committed.
+artifacts/*.joblib
+
+# Local application configuration and secrets.
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Editor, operating-system, and runtime files.
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Superseded toy prototype retained locally for reference only.
+create.py
+music_recommender.py
+expanded_songs_dataset.csv

@@ -1,0 +1,42 @@
+[
+  {
+    "model": "Popularity",
+    "queries": 500,
+    "k": 10,
+    "precision": 0.0074,
+    "recall": 0.0002711256997964277,
+    "ndcg": 0.00779424008219668,
+    "catalog_coverage": 0.00017638550816664902,
+    "artist_diversity": 0.7
+  },
+  {
+    "model": "Unweighted cosine",
+    "queries": 500,
+    "k": 10,
+    "precision": 0.1044,
+    "recall": 0.0017982488418876654,
+    "ndcg": 0.11194469600319819,
+    "catalog_coverage": 0.08427699580202491,
+    "artist_diversity": 0.9792000000000001
+  },
+  {
+    "model": "Hand-weighted cosine",
+    "queries": 500,
+    "k": 10,
+    "precision": 0.1102,
+    "recall": 0.0018877559485489983,
+    "ndcg": 0.11454640526452164,
+    "catalog_coverage": 0.08415352594630825,
+    "artist_diversity": 0.972
+  },
+  {
+    "model": "Validation-tuned cosine",
+    "queries": 500,
+    "k": 10,
+    "precision": 0.11200000000000002,
+    "recall": 0.0019321362438938787,
+    "ndcg": 0.11665023566531033,
+    "catalog_coverage": 0.08399477898895827,
+    "artist_diversity": 0.9724
+  }
+]

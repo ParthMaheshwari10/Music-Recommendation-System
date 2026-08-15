@@ -1,0 +1,122 @@
+[
+  {
+    "model": "Hand-weighted",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.12360000000000002,
+    "recall": 0.002029635616617019,
+    "ndcg": 0.1298539933569184,
+    "catalog_coverage": 0.0429675097893957,
+    "artist_diversity": 0.97
+  },
+  {
+    "model": "Trial 01",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.12279999999999999,
+    "recall": 0.002013500419678835,
+    "ndcg": 0.12751481353554345,
+    "catalog_coverage": 0.042914594136945705,
+    "artist_diversity": 0.9704
+  },
+  {
+    "model": "Trial 02",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.1232,
+    "recall": 0.002026887271347101,
+    "ndcg": 0.1297320016894171,
+    "catalog_coverage": 0.04282640138286238,
+    "artist_diversity": 0.97
+  },
+  {
+    "model": "Trial 03",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.12480000000000001,
+    "recall": 0.00204619581331404,
+    "ndcg": 0.12926072132615862,
+    "catalog_coverage": 0.042985148340212366,
+    "artist_diversity": 0.9680000000000001
+  },
+  {
+    "model": "Trial 04",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.12760000000000002,
+    "recall": 0.002119701342890869,
+    "ndcg": 0.13204530773099918,
+    "catalog_coverage": 0.04294987123857904,
+    "artist_diversity": 0.9684
+  },
+  {
+    "model": "Trial 05",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.124,
+    "recall": 0.00206482625644454,
+    "ndcg": 0.12991761306267602,
+    "catalog_coverage": 0.042985148340212366,
+    "artist_diversity": 0.9672000000000001
+  },
+  {
+    "model": "Trial 06",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.12360000000000002,
+    "recall": 0.002030874833185516,
+    "ndcg": 0.12984723360412745,
+    "catalog_coverage": 0.042861678484495715,
+    "artist_diversity": 0.9695999999999999
+  },
+  {
+    "model": "Trial 07",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.11960000000000003,
+    "recall": 0.001976657209360103,
+    "ndcg": 0.12515895898018187,
+    "catalog_coverage": 0.043108618195929024,
+    "artist_diversity": 0.9672000000000001
+  },
+  {
+    "model": "Trial 08",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.12040000000000001,
+    "recall": 0.0019704365999340607,
+    "ndcg": 0.12401310772941779,
+    "catalog_coverage": 0.04287931703531238,
+    "artist_diversity": 0.9712000000000001
+  },
+  {
+    "model": "Trial 09",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.12320000000000002,
+    "recall": 0.0020196280900022807,
+    "ndcg": 0.12768190166925983,
+    "catalog_coverage": 0.042914594136945705,
+    "artist_diversity": 0.9652000000000001
+  },
+  {
+    "model": "Trial 10",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.12480000000000001,
+    "recall": 0.002052446867257783,
+    "ndcg": 0.13074409370210002,
+    "catalog_coverage": 0.042914594136945705,
+    "artist_diversity": 0.9683999999999999
+  },
+  {
+    "model": "Trial 11",
+    "queries": 250,
+    "k": 10,
+    "precision": 0.12560000000000002,
+    "recall": 0.0020725607268934957,
+    "ndcg": 0.13150099470486226,
+    "catalog_coverage": 0.043002786891029036,
+    "artist_diversity": 0.9684
+  }
+]

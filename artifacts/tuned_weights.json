@@ -1,0 +1,17 @@
+{
+  "danceability": 1.25,
+  "energy": 1.875,
+  "speechiness": 0.42250000000000004,
+  "acousticness": 0.65,
+  "instrumentalness": 0.52,
+  "liveness": 0.8525000000000001,
+  "valence": 1.875,
+  "loudness": 0.8,
+  "tempo_log": 0.75,
+  "duration_log": 0.46499999999999997,
+  "key_sin": 0.25,
+  "key_cos": 0.25,
+  "key_known": 0.1,
+  "mode": 0.2,
+  "time_signature": 0.1
+}
